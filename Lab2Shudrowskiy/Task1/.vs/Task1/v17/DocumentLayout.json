@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03C466F1-54F4-4B0F-82DA-29CD3AA6EAE5}|Task1\\Task1.vcxproj|C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Task1\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03C466F1-54F4-4B0F-82DA-29CD3AA6EAE5}|Task1\\Task1.vcxproj|solutionrelative:Task1\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task1.cpp",
+              "DocumentMoniker": "C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Task1\\Task1.cpp",
+              "RelativeDocumentMoniker": "Task1\\Task1.cpp",
+              "ToolTip": "C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Task1\\Task1.cpp",
+              "RelativeToolTip": "Task1\\Task1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T11:51:07.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
